@@ -79,4 +79,6 @@
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile! ⭐</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F857A6,100:FF5E62&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="footer" />
+</p>
